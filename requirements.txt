@@ -1,0 +1,7 @@
+python-dotenv
+sqlalchemy
+pandas
+mysql-connector-python
+mysql
+python-dateutil
+pytz
